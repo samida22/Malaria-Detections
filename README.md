@@ -12,7 +12,7 @@ Malaria detections using Cnn from scratch
       converting the Xtrian into raay before passing to model, batchsizes=64 for 50 epochs 
 ### use optimizer and loss accuracy measures for good performance extractions
         -used adam optimizer categorical_crossentropy and accuracy metrics
-###calculate the test accuracy
+### calculate the test accuracy
     got 95.52% accuracy on test sets
 
 ![Screenshot from 2021-06-12 17-54-35](https://user-images.githubusercontent.com/83119874/121775534-0728f100-cba8-11eb-9876-d839a7adf0c7.png)
